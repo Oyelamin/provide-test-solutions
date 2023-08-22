@@ -25,3 +25,4 @@ $property->setAccessible(true);
 echo $property->getValue(new ReflectionTest());
 
 // Don't edit anything else!
+//check
